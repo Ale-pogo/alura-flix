@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import axios from 'axios';
 import styles from './Banner.module.css';
+import banner from '../../assets/img/banner-home.png';
 import { API_BASE_URL } from "../../apiconfig";
 
 const categoryColors = {
@@ -32,7 +33,7 @@ const Banner = () => {
   return (
     <div
       className={styles.capa}
-      style={{ backgroundImage: `url("/img/banner-home.png")` }}
+      style={{ backgroundImage: `url(${banner})` }}
     >
       {randomVideo && (
         <div className={styles.content}>
