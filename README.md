@@ -2,7 +2,6 @@
 
 Este repositorio contiene el proyecto **AluraMETAL**, desarrollado como parte de un _Challenger_. La aplicación permite visualizar videos organizados por categorías, con funcionalidades para agregar, editar y eliminar contenido. Fue construida utilizando **React** y **Vite**, con integración de una API para el manejo de datos.
 
-<img src="../assets/img/banner-home.png" alt="Vista previa" width="400">
 <img src="./src/assets/img/banner-home.png" alt="Vista previa" width="400">
 
 ## Descripción del Proyecto
@@ -126,8 +125,8 @@ Si deseas contribuir al proyecto, realiza un _fork_ y envía tus _pull requests_
 
 ---
 
-<img src="./assets/img/logo_cha.svg" alt="Vista previa" width="400">
 
+<img src="./src/assets/img/logo_cha.svg" alt="Vista previa" width="400">
 
 © 2025 Alejandro Casulli
 
