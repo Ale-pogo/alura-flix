@@ -1,8 +1,6 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
 import styles from './Botones.module.css';
-
-// Importar los íconos
 import homeIcon from '/img/home.svg';
 import formIcon from '/img/form.svg';
 
