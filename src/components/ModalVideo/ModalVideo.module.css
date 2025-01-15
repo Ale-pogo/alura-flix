@@ -37,12 +37,14 @@
   height: 450px;
   border: none;
 }
+
 .x  {
   position: absolute;
   top: 6px;
   right: 6px;
   cursor: pointer;    
 }
+
 .modal img {
   width: 30px;
   height: 30px;

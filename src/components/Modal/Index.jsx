@@ -8,7 +8,7 @@ const Modal = ({ isOpen, onClose, children }) => {
     <div className={styles.overlay}>
       <div className={styles.modal}>
         <img
-          src="/img/x.svg"
+          src={`${import.meta.env.BASE_URL}img/x.svg`}
           alt="Cerrar"
           className={styles.x}
           onClick={onClose}

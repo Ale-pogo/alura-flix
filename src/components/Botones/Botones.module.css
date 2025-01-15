@@ -60,7 +60,7 @@ button:hover:before,button:hover:after{
   display: inline-block;
 }
 
-/* Responsividad */
+/* ----Responsividad---- */
 @media (max-width: 768px) {
   .button {
     padding: 0 1em;

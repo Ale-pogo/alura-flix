@@ -45,10 +45,10 @@
     cursor: pointer;    
   }
   
- /*pruebas*/
-
  
-.modal input,
+  /*----pruebas----*/
+
+ .modal input,
 .modal textarea {
   padding: 8px;
   border: 1px solid var(--gris);
@@ -56,42 +56,3 @@
   font-size: 0.9rem;
 }
 
-
- /*  
-.actions {
-  display: flex; 
-  justify-content: center; 
-  align-items: center;
-  gap: 16px; 
-  margin-top: 20px;
-} */
-
-/* .actions button {
-  padding: 10px 20px; 
-  border: none; 
-  border-radius: 8px; 
-  font-size: 1rem; 
-  cursor: pointer; 
-}
- */
-/* .saveButton {
-  background-color: var(--verde); 
-  color: var(--blanco); 
-} */
-
-/* .clearButton {
-  background-color: var(--rojo); 
-  color: var(--blanco); 
-} */
-
-/* .saveButton:hover,
-.clearButton:hover {
-  opacity: 0.9; 
-} */
-
-/* .saveButton:active,
-.clearButton:active {
-  transform: scale(0.95); 
-}
-
- */

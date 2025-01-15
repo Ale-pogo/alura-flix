@@ -15,7 +15,7 @@
   font-size: 2em;
 }
 
-/* Responsividad */
+/* ----Responsividad---- */
 @media (max-width: 768px) {
   .img {
     width: 40%;

@@ -8,7 +8,7 @@ const ModalVideo = ({ isOpen, videoUrl, onClose }) => {
     <div className={styles.overlay} onClick={onClose}>
       <div className={styles.modal} onClick={(e) => e.stopPropagation()}>
         <img
-          src="/img/x.svg"
+          src={`${import.meta.env.BASE_URL}img/x.svg`}
           alt="Cerrar"
           className={styles.x}
           onClick={onClose}
