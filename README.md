@@ -12,7 +12,7 @@ El proyecto se divide en dos páginas principales:
    - Muestra las cards de videos organizadas por categoría.
    - Incluye botones para editar (modal) y eliminar cada card.
    - Contiene un _header_ con el logo y botones de navegación.
-   - Cuenta con un banner que muestra un video destacado de forma aleatoria.
+   - Cuenta con un banner que muestra de forma aleatoria un video, trayendo la información del mismo.
    - Incluye un _footer_ con el logo y texto adicional.
 
 2. **Nuevo Video:**
