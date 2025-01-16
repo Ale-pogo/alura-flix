@@ -119,14 +119,11 @@ El proyecto se divide en dos páginas principales:
 
 El proyecto está configurado para ser desplegado en cualquier plataforma compatible con React y Vite. Puedes usar servicios como Vercel o Netlify para el despliegue.
 
-## Contribución
-
-Si deseas contribuir al proyecto, realiza un _fork_ y envía tus _pull requests_.
 
 ---
 
 
-<img src="./src/assets/img/logo_cha.svg" alt="Vista previa" width="400">
+<img src="./src/assets/img/logo_cha.svg" alt="Vista previa" width="250">
 
 © 2025 Alejandro Casulli
 
